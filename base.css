@@ -1,0 +1,19 @@
+p {
+  font-family: Arial, Helvetica, sans-serifs;
+}
+body {
+  background-color: #bfeaf5;
+}
+
+hr {
+  background-color: #bfeaf5;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+
+  width: 10%;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serifs;
+}
